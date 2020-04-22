@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SwitchView</string>
+    <string name="enable_receive_notifications">Enable receive notifications</string>
+    <string name="disable_receive_notifications">Disable receive notifications</string>
+</resources>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="size_toolbar_title">24sp</dimen>
+    <dimen name="stn_margin">8dp</dimen>
+    <dimen name="stn_padding">8dp</dimen>
+    <dimen name="elevation_card">8dp</dimen>
+    <dimen name="radius_card">8dp</dimen>
+</resources>

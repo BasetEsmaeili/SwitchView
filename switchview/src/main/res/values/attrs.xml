@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="SwitchView">
+        <attr name="android:animationDuration" format="integer" />
+        <attr name="switch_on_color" format="color" />
+        <attr name="switch_off_color" format="color" />
+        <attr name="switch_toggle_color" format="color" />
+        <attr name="switch_elevation" format="dimension" />
+        <attr name="android:checked" format="boolean" />
+    </declare-styleable>
+</resources>
